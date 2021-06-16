@@ -2,13 +2,13 @@
 ### This is Ahmed Shahrour!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmadshahrour951)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahrour/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmadshahrour951@gmail.com)
 
-Welcome to my Github page! I am Ahmed and I am currently finishing my Bachelor's in Applied Computer Science  degree at Make School!  
+Welcome to my Github page! I am Ahmed and I am currently finishing my Bachelor's in Applied Computer Science degree at Make School!  
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+- Finish my Bachelor's in Applied Computer Science degree
 - Taking online courses about Data Science and Machine Learning 
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
