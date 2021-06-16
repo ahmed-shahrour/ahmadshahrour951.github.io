@@ -1,14 +1,11 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is Ahmed Shahrour!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmadshahrour951)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmadshahrour951@gmail.com)
 
-Welcome to my Github page! I am Ahmed and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
-
+Welcome to my Github page! I am Ahmed and I am currently finishing my Bachelor's in Applied Computer Science  degree at Make School!  
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -23,7 +20,7 @@ Welcome to my Github page! I am Ahmed and I am currently finishing my Computer E
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ahmadshahrour951&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
